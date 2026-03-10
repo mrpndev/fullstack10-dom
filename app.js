@@ -149,3 +149,6 @@ let domUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-mode
 	* style it so that it's not huge
 */
 
+let domImg = document.querySelector(".dom-pic")
+domImg.src = domUrl
+domImg.style.width = "500px"
