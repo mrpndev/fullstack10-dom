@@ -137,7 +137,7 @@ for (i of nodeList) {
 document.body.style.backgroundColor = "lightgray"
 
 
-let domUrl = "https://en.wikipedia.org/wiki/Document_Object_Model#/media/File:DOM-model.svg"
+let domUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/3840px-DOM-model.svg.png"
 
 /* 
 	? Final Chalenge
